@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.morhetz.keyboardlayout.jugoslavica</string>
+	<key>CFBundleName</key>
+	<string>Jugoslavica</string>
+	<key>CFBundleVersion</key>
+	<string>1.2</string>
+	<key>KLInfo_Jugoslavica - Flag</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>com.morhetz.keyboardlayout.jugoslavica.jugoslavica-flag</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+</dict>
+</plist>
