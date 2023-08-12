@@ -18,6 +18,8 @@ utilizing a separate input level, accessible through the `⌥ Opt` key. So, this
 not only facilitates typing in Serbo-Croatian but also caters to the broader
 range of the Slavic Latin alphabet.
 
+![](./img/jugo.png)
+
 ## What's Included?
 
 * For Serbo-Croatian and Slovenian: **Č (Ч), Ć (Ћ), Đ (Ђ), Š (Ш), Ž (Ж)**
