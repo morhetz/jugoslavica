@@ -36,11 +36,11 @@ range of the Slavic Latin alphabet.
 
 ## Installation Steps
 
-1. Download the distribution.
+1. Download the [distribution][3].
 
 2. Install the Jugoslavica.bundle file with the Keyboard Installer app.
 
-3. Navigate to `System Preferences` → `Keyboard` → `Input sources`, and add `Jugoslavica`
+3. Navigate to `System Preferences` → `Keyboard` → `Input sources`, and add `Jugoslavica`. Choose the Flag and Mono icon variations based on your liking.
 
 4. To remove the original English layout, temporarily add Vietnamese (simple
    telex), remove English, and then remove Vietnamese.
@@ -52,3 +52,5 @@ range of the Slavic Latin alphabet.
 [1]: https://en.wikipedia.org/wiki/Romanization_of_Bulgarian#Streamlined_System
 
 [2]: https://en.wikipedia.org/wiki/Belarusian_Latin_alphabet
+
+[3]: https://github.com/morhetz/jugoslavica/releases
